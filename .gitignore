@@ -1,4 +1,2 @@
 .DS_Store
-datasets/
-model_files/
 __pycache__/
